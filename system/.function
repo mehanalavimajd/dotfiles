@@ -1,0 +1,21 @@
+#! /usr/bin/bash
+# .function
+###################
+# Get named var (usage: get "VAR_NAME")
+
+function get() {
+    echo "${!1}"
+}
+
+# git add and git commit (usage: gac <path> <message_with_no_quotation>)
+
+function gitac() {
+    git add $1
+    git coomit -m "$2"
+}
+
+# Create a new directory and enter it
+
+function mk() {
+  mkdir -p "$@" && cd "$@"
+}

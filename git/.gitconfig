@@ -1,0 +1,7 @@
+[credential]
+        helper = store
+[core]
+        excludesfile = ~.gitignore_global
+        editor = nano
+[commit]
+        template = ~/dotfiles/git/.gitmessage.txt

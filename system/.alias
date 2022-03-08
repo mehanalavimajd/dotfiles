@@ -1,0 +1,10 @@
+#! /usr/bin/bash
+# .alias
+###################
+alias reload="source ~/.profile"
+alias g="git"
+alias ..="cd ../"
+alias ....="cd ../.."
+alias rr="rm -rf"
+alias ni="npm install"
+alias ip="curl -s ipinfo.io | jq -r '.ip'"
