@@ -7,7 +7,7 @@ echo "git config ... "
 ln -sn -f ./git/gitignore_global ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
 ln -s -f ./git/gitconfig ~/.gitconfig
-g
+
 echo "system config ..."
 echo "source ~/dotfiles/system/.alias" >> ~/.bashrc
 echo "source ~/dotfiles/system/.function" >> ~/.bashrc
