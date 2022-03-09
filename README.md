@@ -7,7 +7,7 @@ git config:
 
 system config:
 - aliases and functions
-- beatiful bash prompt ![bash-prompt](https://user-images.githubusercontent.com/74927578/157302605-d1031959-17e2-47e8-84c5-4e39f5b54802.png)
+- beautiful bash prompt ![bash-prompt](https://user-images.githubusercontent.com/74927578/157302605-d1031959-17e2-47e8-84c5-4e39f5b54802.png)
 
 # Installation
 clone and install it:
