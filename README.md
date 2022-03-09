@@ -19,4 +19,4 @@ cp ./dotfiles/ ~/dotfiles
 cd ~/dotfiles
 bash install.sh
 ```
-And restart your system.
+And restart your terminal.
